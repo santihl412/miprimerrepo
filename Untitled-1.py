@@ -1,3 +1,5 @@
 print ("hola mundoo")
 a = 3
-sd
+b= 3
+c= a+b
+print (c)
